@@ -1,0 +1,13 @@
+{
+    "botToken": "OTk0OTg1OTYwMjk3MjE4MTg4.Gx4MsU.0zo-yLgq6dZJB46mntav-mJqU5D6p8rCcpas8o",
+    "logs_channel_id": "995464859208659056",
+
+    "prefix": "-",
+    "command_name": "start",
+    
+    "give_role": true,
+    "role_name": "Membres",
+
+    "mass_dm": 0,
+    "message": "MESSAGE-HERE"
+}
